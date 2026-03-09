@@ -1,0 +1,13 @@
+{
+  "name": "evie-ng-plugins",
+  "owner": {
+    "name": "Evie Zouras"
+  },
+  "plugins": [
+    {
+      "name": "review-plugin",
+      "source": "./plugins/review-plugin",
+      "description": "Adds a /review skill for angular code reviews"
+    }
+  ]
+}
