@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "review-plugin",
-      "source": "./plugins/review-plugin",
-      "description": "Adds a /review skill for angular code reviews"
+      "name": "ng-review",
+      "source": "./plugins/ng-review",
+      "description": "Adds a /ng-review skill for angular code reviews"
     }
   ]
 }

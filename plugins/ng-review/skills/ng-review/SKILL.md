@@ -1,4 +1,5 @@
 ---
+name: ng-review
 description: Review code for bugs, security, and performance
 disable-model-invocation: true
 ---

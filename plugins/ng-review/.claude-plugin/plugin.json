@@ -1,5 +1,5 @@
 {
-  "name": "review-plugin",
+  "name": "ng-review",
   "description": "Adds a /review skill for quick code reviews",
   "version": "1.0.0"
 }
